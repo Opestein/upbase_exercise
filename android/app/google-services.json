@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "262779724116",
+    "firebase_url": "https://mo-money-7956d.firebaseio.com",
+    "project_id": "mo-money-7956d",
+    "storage_bucket": "mo-money-7956d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262779724116:android:14cba4fb46c617efe768c1",
+        "android_client_info": {
+          "package_name": "com.upbaseexercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262779724116-k3ol247viqger9sg1an8nhmqnukdi727.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsjVJr9mOMSCumCjkaNWKxsdXUbA4FJdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262779724116-k3ol247viqger9sg1an8nhmqnukdi727.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "262779724116-7d0rkc1g5qv6n6h5jps2njj5h0jl45q0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.upbaseexercise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

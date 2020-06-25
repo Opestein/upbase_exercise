@@ -1,0 +1,27 @@
+{
+
+  "notification": "irioruurirfqb",
+  "forgot_password_text" : "FORG?",
+  "app_tour_title" : [
+    "Injini ya utafutaji ya kusafiri Afrika",
+    "Panga safari yako",
+    "Usikose mpango"
+  ],
+  "app_tour_text" : [
+    "Tuna uzoefu mpya kwa ajili yenu",
+    "Chagua marudio yako, panga safari yako, Chagua nafasi bora kwa likizo yako",
+    "Ingia ili tuweze kukuambia kuhusu mikataba ya kushangaza mara moja"
+  ],
+  "app_tour_precious" : [
+    "SIO KWA SASA", "KURE", "RUKA"
+  ],
+  "app_tour_next" : [
+    "AIDHA", "INGIA"
+  ],
+  "nav_titles" : [
+    "Ndege", "Hoteli", "Chunguza", "Safari", "Akaunti"
+  ],
+  "error_text" : "Hitilafu ilitokea",
+  "error_action" : "PINDA",
+  "select_market" : "Chagua Soko"
+}
