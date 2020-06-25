@@ -149,10 +149,12 @@ class _CustomAppBarState extends State<CustomAppBar>
         apiKey: kGoogleApiKey,
         mode: Mode.fullscreen,
         language: "en");
-    setState(() {
-      locationController.text = p.description;
-      locationID = p.placeId;
-    });
+    if (locationController != null) {
+      setState(() {
+        locationController.text = p.description;
+        locationID = p.placeId;
+      });
+    }
   }
 
 //
