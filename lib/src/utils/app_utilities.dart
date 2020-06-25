@@ -1,12 +1,9 @@
 import 'dart:math';
 
-
 import 'package:flutter/material.dart';
 import 'package:upbaseexercise/src/app.dart';
 import 'package:intl/intl.dart';
 import 'package:upbaseexercise/src/ui/search_result_page.dart';
-
-
 
 double responsiveWidth(context, double width) {
   MediaQueryData _mediaQueryData = MediaQuery.of(context);
@@ -298,8 +295,6 @@ DateTime getTenYearsFromDateTime(DateTime dateTime) {
       DateTime(dateTime.year + 10, dateTime.month + 1, 0);
   return tenYearsFromDateTime;
 }
-
-
 
 class HexColor extends Color {
   static int _getColorFromHex(String hexColor) {
